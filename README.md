@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://github.com/difooldevs/nft-preview-card-component)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [github.com/difooldevs/nft-preview-card-component](https://github.com/difooldevs/nft-preview-card-component)
+-   Live Site URL: [nft-prvw-component.netlify.app](https://nft-prvw-component.netlify.app/)
 
 ## My process
 
