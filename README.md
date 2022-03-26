@@ -14,8 +14,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
     -   [Continued development](#continued-development)
 -   [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -62,10 +60,8 @@ theme: {
 
 Although Astro was overkill for this project, I enjoyed using it and will continue to do so. It is a lightweight static site generator that will allow me to use React framework, but not require it.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
 ## Author
 
--   Website - [difool](difool.dev)
--   Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/difooldevs)
--   Twitter - [@yourusername](https://www.twitter.com/difool0x)
+-   Website - [difool.dev](difool.dev)
+-   Frontend Mentor - [@difooldevs](https://www.frontendmentor.io/profile/difooldevs)
+-   Twitter - [@difool0x](https://www.twitter.com/difool0x)
